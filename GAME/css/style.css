@@ -1,0 +1,18 @@
+#gameArea {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 1000px;
+  height: 800px;
+}
+
+#info {
+  font-size: 50px;
+  color: red;
+}
+.answers{
+  width: 250px;
+}
+
+.hidden {
+  display: none;
+}
